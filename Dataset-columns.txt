@@ -1,4 +1,4 @@
-fp7 dataset column headers:
+Column headers:
 - projectRCN
 - projectID
 - projectAcronym
